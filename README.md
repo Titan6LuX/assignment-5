@@ -1,2 +1,3 @@
-# assignment-5
-assignment 5
+# labAssignment_5
+
+Build: gcc lab_assignment_5.c
